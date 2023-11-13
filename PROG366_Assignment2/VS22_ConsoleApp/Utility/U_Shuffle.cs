@@ -2,10 +2,17 @@ using System.Collections.ObjectModel;
 
 namespace VS22_ConsoleApp.Utility
 {
-
+    /// <summary>
+    /// A utility class for shuffling collections.
+    /// </summary>
     public static class U_Shuffle
     {
-
+        /// <summary>
+        /// Shuffles the elements of a collection using the Fisher-Yates algorithm.
+        /// </summary>
+        /// <typeparam name="T">The type of elements in the collection.</typeparam>
+        /// <param name="unshuffled">The unshuffled collection to be shuffled.</param>
+        /// <returns>A shuffled collection of the same type as the input.</returns>
         public static ICollection<T> FYShuffle<T>(ICollection<T> unshuffled)
         {
             Random rand = new Random();
@@ -24,7 +31,5 @@ namespace VS22_ConsoleApp.Utility
 
             return unshuf_arr;
         }
-
     }
-    
 }
