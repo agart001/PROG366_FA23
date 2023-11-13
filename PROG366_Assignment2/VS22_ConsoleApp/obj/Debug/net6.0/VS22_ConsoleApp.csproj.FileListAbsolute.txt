@@ -1,0 +1,15 @@
+C:\Users\agart\Documents\GitHub\PROG366\PROG366_Week5\VS22_ConsoleApp\bin\Debug\net6.0\VS22_ConsoleApp.exe
+C:\Users\agart\Documents\GitHub\PROG366\PROG366_Week5\VS22_ConsoleApp\bin\Debug\net6.0\VS22_ConsoleApp.deps.json
+C:\Users\agart\Documents\GitHub\PROG366\PROG366_Week5\VS22_ConsoleApp\bin\Debug\net6.0\VS22_ConsoleApp.runtimeconfig.json
+C:\Users\agart\Documents\GitHub\PROG366\PROG366_Week5\VS22_ConsoleApp\bin\Debug\net6.0\VS22_ConsoleApp.dll
+C:\Users\agart\Documents\GitHub\PROG366\PROG366_Week5\VS22_ConsoleApp\bin\Debug\net6.0\VS22_ConsoleApp.pdb
+C:\Users\agart\Documents\GitHub\PROG366\PROG366_Week5\VS22_ConsoleApp\obj\Debug\net6.0\VS22_ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\agart\Documents\GitHub\PROG366\PROG366_Week5\VS22_ConsoleApp\obj\Debug\net6.0\VS22_ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agart\Documents\GitHub\PROG366\PROG366_Week5\VS22_ConsoleApp\obj\Debug\net6.0\VS22_ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\agart\Documents\GitHub\PROG366\PROG366_Week5\VS22_ConsoleApp\obj\Debug\net6.0\VS22_ConsoleApp.AssemblyInfo.cs
+C:\Users\agart\Documents\GitHub\PROG366\PROG366_Week5\VS22_ConsoleApp\obj\Debug\net6.0\VS22_ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\agart\Documents\GitHub\PROG366\PROG366_Week5\VS22_ConsoleApp\obj\Debug\net6.0\VS22_ConsoleApp.dll
+C:\Users\agart\Documents\GitHub\PROG366\PROG366_Week5\VS22_ConsoleApp\obj\Debug\net6.0\refint\VS22_ConsoleApp.dll
+C:\Users\agart\Documents\GitHub\PROG366\PROG366_Week5\VS22_ConsoleApp\obj\Debug\net6.0\VS22_ConsoleApp.pdb
+C:\Users\agart\Documents\GitHub\PROG366\PROG366_Week5\VS22_ConsoleApp\obj\Debug\net6.0\VS22_ConsoleApp.genruntimeconfig.cache
+C:\Users\agart\Documents\GitHub\PROG366\PROG366_Week5\VS22_ConsoleApp\obj\Debug\net6.0\ref\VS22_ConsoleApp.dll
