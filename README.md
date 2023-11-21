@@ -1,6 +1,8 @@
 # PROG366_FA23
 A repository of assignments for PROG366, Algorithms.
 
+####
+
 #### **Assignment 1**
 This C# program demonstrates different time complexities in the context of Big O Notation: Constant (O(1)), Linear (O(n)), and Quadratic (O(n^2)).
 
@@ -12,6 +14,8 @@ This C# program demonstrates different time complexities in the context of Big O
 
 - **O(n^2) Example (Lines 28-34 Program.cs | Lines 60-79 Utility.cs):**
   - In this part of the code, the `EnumerablePrintCounts` method is called with the same array, `On`. This method prints the counts of distinct values in the input enumerable sequence. Inside the method, there are nested loops, resulting in a quadratic time complexity O(n^2) because the execution time grows quadratically as the input size increases.
+
+####
 
 #### **Assignment 2**
 This C# program demonstrates the Fisher-Yates Shuffle algorithm, efficiently shuffling elements randomly to ensure that each possible permutation is equally likely. It is useful for applications like shuffling cards or generating random orderings of items in a list.
@@ -33,6 +37,8 @@ This C# program demonstrates the Fisher-Yates Shuffle algorithm, efficiently shu
 - **Summary:**
   - The `FYShuffle` method takes an unshuffled collection, converts it into an array, and then performs the Fisher-Yates Shuffle on that array. The result is a shuffled array of the same type as the input collection.
 
+####
+
 #### **Assignment 3**
 This C# program demonstrates the use of different data structures for working with data, including Arrays, Hashtables, Stacks, and Queues.
 
@@ -51,6 +57,8 @@ This C# program demonstrates the use of different data structures for working wi
 - **Queues (Lines 128-143 Program.cs):**
   - In the `ReadIntoQueue` method, data from the XML file is read and stored in a Queue of Tuple objects.
   - Queues follow the First-In-First-Out (FIFO) principle, making them suitable for scenarios where elements need to be processed in the order of their appearance.
+
+####
 
 #### **Assignment 4**
 The provided C# program focuses on implementing and comparing various sorting algorithms. The choice of sorting algorithm depends on the specific requirements of the task, the size of the dataset, and the desired trade-offs between time and space complexity. Each algorithm has its advantages and drawbacks, making them suitable for different scenarios.
@@ -125,3 +133,5 @@ The provided C# program focuses on implementing and comparing various sorting al
   - **Use Cases:**
     - Sorting large datasets.
     - Situations where stable sorting is required.
+
+####
