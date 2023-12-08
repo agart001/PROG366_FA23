@@ -135,3 +135,63 @@ The provided C# program focuses on implementing and comparing various sorting al
     - Situations where stable sorting is required.
 
 ####
+
+### **Assignment 6**
+
+This C# program, part of the PROG366 course, focuses on searching algorithms and their implementation. The assignment utilizes a dataset of integer values stored in the 'scores.txt' file and aims to demonstrate three searching algorithms: Linear Search, Binary Search, and Interpolation Search.
+
+#### **Introduction:**
+- The assignment provides an overview of the dataset, which consists of integers stored in ascending order.
+- Target Value: 72
+
+#### **Linear Search (Lines 258-282 Program.cs):**
+- **Definition:** Sequentially checks each element of a dataset.
+- **Implementation:** The linear search method is applied to the ordered dataset.
+- **Results:** Displays the index of the target, the target element, and nearby elements.
+- **Big O Notation:**
+  - Worst: O(n)
+  - Best: O(1)
+  - Average: O(n/2)
+- **Strengths:**
+  - Simplicity.
+  - Suitable for small datasets.
+  - Easy integration into larger methods.
+- **Weaknesses:**
+  - Inefficient for large datasets.
+  - Limited suitability for dynamic datasets.
+
+#### **Binary Search (Lines 284-318 Program.cs):**
+- **Definition:** Compares the middle value of the dataset to the target, narrowing down the search space.
+- **Implementation:** The binary search method is applied to the ordered dataset.
+- **Results:** Displays the index of the target, the target element, and nearby elements.
+- **Big O Notation:**
+  - Worst: O(log n)
+  - Best: O(1)
+  - Average: O(log n)
+- **Strengths:**
+  - Early termination.
+  - Efficient for sorted datasets.
+  - Simplicity in context.
+- **Weaknesses:**
+  - Inefficient for dynamic datasets.
+  - Requires a pre-sorted dataset.
+
+#### **Interpolation Search (Lines 320-380 Program.cs):**
+- **Definition:** Compares the target to an interpolated position in the dataset.
+- **Implementation:** The interpolation search method is applied to the ordered dataset.
+- **Results:** Displays the index of the target, the target element, and nearby elements.
+- **Big O Notation:**
+  - Worst: O(n)
+  - Best: O(1)
+  - Average: O(log log n)
+- **Strengths:**
+  - Adaptable.
+  - Potential for faster convergence.
+  - Versatile with sorted data.
+- **Weaknesses:**
+  - Potential degradation.
+  - Sensitive to misinterpretation.
+  - Adds additional complexity and time.
+
+####
+
