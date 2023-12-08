@@ -3,7 +3,7 @@ A repository of assignments for PROG366, Algorithms.
 
 ####
 
-#### **Assignment 1**
+### **Assignment 1**
 This C# program demonstrates different time complexities in the context of Big O Notation: Constant (O(1)), Linear (O(n)), and Quadratic (O(n^2)).
 
 - **O(1) Example (Lines 16-21 Program.cs | Lines 31-44 Utility.cs):**
@@ -17,7 +17,7 @@ This C# program demonstrates different time complexities in the context of Big O
 
 ####
 
-#### **Assignment 2**
+### **Assignment 2**
 This C# program demonstrates the Fisher-Yates Shuffle algorithm, efficiently shuffling elements randomly to ensure that each possible permutation is equally likely. It is useful for applications like shuffling cards or generating random orderings of items in a list.
 
 - **Initialization (Lines 16-19 U_Shuffle.cs):**
@@ -39,7 +39,7 @@ This C# program demonstrates the Fisher-Yates Shuffle algorithm, efficiently shu
 
 ####
 
-#### **Assignment 3**
+### **Assignment 3**
 This C# program demonstrates the use of different data structures for working with data, including Arrays, Hashtables, Stacks, and Queues.
 
 - **Arrays (Lines 63-80 Program.cs):**
@@ -60,7 +60,7 @@ This C# program demonstrates the use of different data structures for working wi
 
 ####
 
-#### **Assignment 4**
+### **Assignment 4**
 The provided C# program focuses on implementing and comparing various sorting algorithms. The choice of sorting algorithm depends on the specific requirements of the task, the size of the dataset, and the desired trade-offs between time and space complexity. Each algorithm has its advantages and drawbacks, making them suitable for different scenarios.
 
 - **Bubble Sort (Lines 130-167 Program.cs):**
