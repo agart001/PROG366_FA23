@@ -1,0 +1,15 @@
+C:\Users\agart\source\repos\local\PROG366_Assignment6\PROG366_Assignment6\bin\Debug\net6.0\PROG366_Assignment6.exe
+C:\Users\agart\source\repos\local\PROG366_Assignment6\PROG366_Assignment6\bin\Debug\net6.0\scores.txt
+C:\Users\agart\source\repos\local\PROG366_Assignment6\PROG366_Assignment6\bin\Debug\net6.0\PROG366_Assignment6.deps.json
+C:\Users\agart\source\repos\local\PROG366_Assignment6\PROG366_Assignment6\bin\Debug\net6.0\PROG366_Assignment6.runtimeconfig.json
+C:\Users\agart\source\repos\local\PROG366_Assignment6\PROG366_Assignment6\bin\Debug\net6.0\PROG366_Assignment6.dll
+C:\Users\agart\source\repos\local\PROG366_Assignment6\PROG366_Assignment6\bin\Debug\net6.0\PROG366_Assignment6.pdb
+C:\Users\agart\source\repos\local\PROG366_Assignment6\PROG366_Assignment6\obj\Debug\net6.0\PROG366_Assignment6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agart\source\repos\local\PROG366_Assignment6\PROG366_Assignment6\obj\Debug\net6.0\PROG366_Assignment6.AssemblyInfoInputs.cache
+C:\Users\agart\source\repos\local\PROG366_Assignment6\PROG366_Assignment6\obj\Debug\net6.0\PROG366_Assignment6.AssemblyInfo.cs
+C:\Users\agart\source\repos\local\PROG366_Assignment6\PROG366_Assignment6\obj\Debug\net6.0\PROG366_Assignment6.csproj.CoreCompileInputs.cache
+C:\Users\agart\source\repos\local\PROG366_Assignment6\PROG366_Assignment6\obj\Debug\net6.0\PROG366_Assignment6.dll
+C:\Users\agart\source\repos\local\PROG366_Assignment6\PROG366_Assignment6\obj\Debug\net6.0\refint\PROG366_Assignment6.dll
+C:\Users\agart\source\repos\local\PROG366_Assignment6\PROG366_Assignment6\obj\Debug\net6.0\PROG366_Assignment6.pdb
+C:\Users\agart\source\repos\local\PROG366_Assignment6\PROG366_Assignment6\obj\Debug\net6.0\PROG366_Assignment6.genruntimeconfig.cache
+C:\Users\agart\source\repos\local\PROG366_Assignment6\PROG366_Assignment6\obj\Debug\net6.0\ref\PROG366_Assignment6.dll
