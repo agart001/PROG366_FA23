@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HdECEM4975Hhsw796FaN7kyv4t3nArVAvA6G3nHa4lE/8ZQtfRI65JldWVJJvXYavVrbAMB+9pMm2v51F/5d6w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\agart\\source\\repos\\local\\PROG366_Assignment7_WF\\PROG366_Assignment7_WF\\PROG366_Assignment7_WF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\agart\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
