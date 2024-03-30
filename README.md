@@ -1,5 +1,18 @@
-# **PROG366_FA23**
-    A repository of assignments for PROG366, Algorithms.
+# PROG366_FA23
+
+## Category
+App
+
+## Client
+C# .NET
+
+## Project Date
+Sep. 17 - Dec 20, 2023
+
+## Description
+This repository acts as a cache for all the assignment completed during the PROG366 Algorithms course. It is well documented repository, with an extensive README.md which documents the functionality and concepts behind each algorithm that was taught/assigned.
+
+
 ***
 ## **Assignment 1**
 This C# program demonstrates different time complexities in the context of Big O Notation: Constant (O(1)), Linear (O(n)), and Quadratic (O(n^2)).
